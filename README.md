@@ -5,7 +5,7 @@
 * JavaScript basic and advanced (ES5 - Es6 - OOP - Functional - Built-ins - Design patterns)
 * Testing(Jasmine)
 * web automation and optimization and productive editing
-* Build tools(Gulp)
+* Build tools (Gulp)
 * Ajax and Promises
 * Angular, Ember and BackBone frameworks examining
 * React
@@ -37,6 +37,9 @@
 
   [6]: https://github.com/saher-elgendy/Restaurant-Review      'Restaurant Reviews'
 
+* MY Reads: a book tracking app (react)
+
+*  Neighborhood Map (React) 
 
   All projects Reviewed by udacity project reviewers and accepted according to all guidelines
 
