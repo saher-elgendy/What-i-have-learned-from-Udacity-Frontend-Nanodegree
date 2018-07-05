@@ -10,3 +10,40 @@
 * Angular, Ember and BackBone frameworks examining
 * React
 * APIs
+
+## Major projects
+
+* [Pixel Art Maker][1]
+
+ [1]: https://github.com/saher-elgendy/Pixel-Art-Maker-Project 'Pixel Art Maker'
+
+* [Memory Game][2]
+
+[2]: https://github.com/saher-elgendy/memory-game-project 'Memory Game'
+
+* [Arcade Game Clone][3]
+
+ [3]: https://github.com/saher-elgendy/Arcade-game-clone   'Arcade Game Clone'
+
+* [Portfolio][4]
+
+ [4]: https://github.com/saher-elgendy/My-portfolio 'Portfolio'
+
+* [Feed Reader Testing][5]
+ 
+ [5]: https://github.com/saher-elgendy/Udacity-feed-reader-testing   'Feed Reader Testing'
+
+* [Restaurant Reviews][6]
+
+  [6]: https://github.com/saher-elgendy/Restaurant-Review      'Restaurant Reviews'
+
+
+  All projects Reviewed by udacity project reviewers and accepted according to all guidelines
+
+## Author
+
+[Saher Elgendy][7]
+
+[7]: https://github.com/saher-elgendy            "Saher Elgendy"  
+
+
