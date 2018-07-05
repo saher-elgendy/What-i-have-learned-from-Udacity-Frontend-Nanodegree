@@ -8,6 +8,7 @@
 * Build tools (Gulp)
 * Ajax and Promises
 * Angular, Ember and BackBone frameworks examining
+* Offline first and working with service workers
 * React
 * APIs
 
