@@ -38,7 +38,7 @@
 
   [6]: https://github.com/saher-elgendy/Restaurant-Review      'Restaurant Reviews'
 
-* [MY Reads: a book tracking app (react)][7]
+* [MY Reads: a book tracking app (React)][7]
 
   [7]: https://github.com/saher-elgendy/MY-reads-book-tracking-app-  'Myreads'
 
@@ -50,8 +50,8 @@
 
 ## Author
 
-[Saher Elgendy][7]
+[Saher Elgendy][9]
 
-[7]: https://github.com/saher-elgendy            "Saher Elgendy"  
+[9]: https://github.com/saher-elgendy            "Saher Elgendy"  
 
 
