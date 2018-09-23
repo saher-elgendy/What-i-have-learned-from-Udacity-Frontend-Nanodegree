@@ -7,7 +7,7 @@
 * Testing(Jasmine)
 * Web automation and optimization and productive editing
 * Build tools (Gulp)
-* Ajax and Promises
+* AJAX and Promises
 * Angular, Ember and BackBone frameworks examining
 * Offline first and working with service workers
 * React
