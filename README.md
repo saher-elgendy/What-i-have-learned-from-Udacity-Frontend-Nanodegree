@@ -1,6 +1,7 @@
 # List of major topics i learned in Udacity Frontend Nanodegree
 
 * Responsive
+* Web Accessibility
 * Git/GitHub
 * JavaScript basic and advanced (ES5 - Es6 - OOP - Functional - Built-ins - Design patterns)
 * Testing(Jasmine)
