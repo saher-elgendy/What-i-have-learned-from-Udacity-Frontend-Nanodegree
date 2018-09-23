@@ -5,7 +5,7 @@
 * Git/GitHub
 * JavaScript basic and advanced (ES5 - Es6 - OOP - Functional - Built-ins - Design patterns)
 * Testing(Jasmine)
-* web automation and optimization and productive editing
+* Web automation and optimization and productive editing
 * Build tools (Gulp)
 * Ajax and Promises
 * Angular, Ember and BackBone frameworks examining
