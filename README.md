@@ -39,6 +39,7 @@
   [6]: https://github.com/saher-elgendy/Restaurant-Review      'Restaurant Reviews'
 
 * [MY Reads: a book tracking app (react)][7]
+
   [7]: https://github.com/saher-elgendy/MY-reads-book-tracking-app-  'Myreads'
 
 *  Neighborhood Map (React) 
